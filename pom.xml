@@ -1,1 +1,7 @@
-
+<dependency>
+    <groupId>sample</groupId>
+    <artifactId>com.sample</artifactId>
+    <version>1.0</version>
+    <scope>system</scope>
+    <systemPath>${project.basedir}/JMusicBot-0.0.7.jar</systemPath>
+</dependency>
